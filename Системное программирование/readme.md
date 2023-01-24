@@ -74,3 +74,38 @@
  4. Ссылки
  5. Именованные каналы
  6. Сокеты
+
+Работа с дистрибутивами GNU/Linux
+linux система
+дистрибутивы linux:
+Debian, Arch Linux, Red Hat
+
+Ubuntu основан на Debian
+Kali Linux - для инфобезников, российские системы: АстраЛинукс
+![image](https://user-images.githubusercontent.com/97594452/214223750-2ae5a98e-d558-4b60-81fd-1a45a9e151e7.png)
+
+переключение в режим админа
+![image](https://user-images.githubusercontent.com/97594452/214224140-726bd24a-0f80-46ec-816b-c5ad50668d89.png)
+смена языка на шифт+пробел
+![image](https://user-images.githubusercontent.com/97594452/214225111-f5287a0a-66d0-42a1-a556-cb48243ed7c1.png)
+
+изменения шрифта(правка->параметры->стиль)
+![image](https://user-images.githubusercontent.com/97594452/214225359-c7d2eecc-0561-4905-9efb-b8ff3e28fc44.png)
+
+Копиравние
+![image](https://user-images.githubusercontent.com/97594452/214226519-79d42737-8e9b-42f1-91c2-eb00e25bcc04.png)
+
+выводит блочные устройства
+![image](https://user-images.githubusercontent.com/97594452/214227147-9f2bfd2d-faa5-4530-b4bb-0a99a04cce15.png)
+
+man man(инструкция по всем командам)
+![image](https://user-images.githubusercontent.com/97594452/214227598-c3864400-62d7-4efa-bfeb-77a22d96ce02.png)
+
+мануалы
+![image](https://user-images.githubusercontent.com/97594452/214228851-54067608-21fc-4ed2-bf52-6f0d7184b2fa.png)
+
+man lsblk
+![image](https://user-images.githubusercontent.com/97594452/214228557-30398594-6be6-4406-a941-afa6e54582f8.png)
+
+Первая программа
+![image](https://user-images.githubusercontent.com/97594452/214230547-0fb1f533-5022-407a-83b9-3002b4259f70.png)
