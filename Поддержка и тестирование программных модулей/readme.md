@@ -88,3 +88,21 @@
 Устранять неисправность слишком рискованно
 Это того не стоит
 Неэффективный отчет о дефектах
+
+
+
+
+
+
+ИСКЛЮЧЕНИЯ
+![image](https://user-images.githubusercontent.com/97594452/229086723-b48e204a-382f-4070-8ebc-310d5f1492ca.png)
+![image](https://user-images.githubusercontent.com/97594452/229086861-536548c7-7e98-4ceb-9c39-c9732edeb3bb.png)
+Есть встроенные ошибки программы
+пример ошибки - Division by constant zero
+![image](https://user-images.githubusercontent.com/97594452/229087542-78568bc9-2069-45cd-8528-3fa828573574.png)
+если мы в программе не знаем какая может быть ошибка то мы не можем использовать if/else
+в программах есть способ для обработки ошибок - исключение
+структура исключения:
+код который мы хотим выполнить и поиск ошибок
+![image](https://user-images.githubusercontent.com/97594452/229091996-afd4f8c9-16ec-4626-8f43-e4f5a071cd4e.png)
+throw new DivideByZeroException(); - добавление нового исключения
